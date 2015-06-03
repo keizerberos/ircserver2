@@ -8,7 +8,7 @@ $config = array(
 					/* http -> bindTo: This is the address you want the webclient to listen to. Example: if set to 127.0.0.1:8080,
 					 *                 you'd navigate your browser to http://127.0.0.1:8080/ 
 					 */
-					'bindTo' => '0.0.0.0:8080',
+					'bindTo' => '0.0.0.0:80',
 					),
 					
 	'irc' => array( // Irc connections settings.
