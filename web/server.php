@@ -8,7 +8,7 @@ header("access-control-allow-origin: *");
 $default_config = array( /* This is default config, if you want to change something, edit config.php, not here */
 	'http' => array(
 					/* This is the address the client will connect to, you have to edit IP:PORT */
-					'bindTo' => '0.0.0.0:80',
+					'bindTo' => '0.0.0.0:8080',
 					
 					'webpath' => 'www',
 					'default' => 'index.html',
